@@ -3,5 +3,5 @@ A tool to maximize precision of the T:M ratio by optimally allocating tagged smo
 
 Filename | Description
 ---------| -----------
-tmdesign.s | R-code 
+tmdesign.R | R-code 
 tmdesign-6-4-2022.pdf | Documentation file
